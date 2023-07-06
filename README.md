@@ -1,0 +1,2 @@
+# Ngpy
+setting up git
